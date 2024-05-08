@@ -1,4 +1,4 @@
-# PROJETO 1 - FICHA TÉCNICA (1)
+# PROJETO 1 - FICHA TÉCNICA 
 
 # Ficha Técnica: Projeto Análise de Dados 1
 
